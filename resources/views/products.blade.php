@@ -118,7 +118,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <button class="buy-btn" onclick="buyProduct('Srikayaroti', 2000)">Buy</button>
+                        <form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Srikayaroti">
+        <input type="hidden" name="harga" value="2000">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
@@ -137,7 +142,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <button class="buy-btn" onclick="buyProduct('Salad Jelly', 10000)">Buy</button>
+                        <form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Salad Jelly">
+        <input type="hidden" name="harga" value="10000">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
@@ -156,7 +166,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <button class="buy-btn" onclick="buyProduct('Nasi Ayam', 10000)">Buy</button>
+                        <form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Nasi Ayam">
+        <input type="hidden" name="harga" value="10000">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
@@ -174,8 +189,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
-                        </ul>
-                        <button class="buy-btn" onclick="buyProduct('Nasi Tahu', 5000)">Buy</button>
+                        </ul><form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Nasi Tahu">
+        <input type="hidden" name="harga" value="5000">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
@@ -194,7 +213,12 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <button class="buy-btn" onclick="buyProduct('Jus', 5000)">Buy</button>
+                        <form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Jus">
+        <input type="hidden" name="harga" value="5000">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
@@ -213,16 +237,18 @@ https://templatemo.com/tm-546-sixteen-clothing
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <button class="buy-btn" onclick="buyProduct('Brownies', 2500)">Buy</button>
+                        <form id="buyForm" action="checkout" method="GET">
+        <input type="hidden" name="nama_makanan" value="Brownies">
+        <input type="hidden" name="harga" value="2500">
+        <input type="number" id="quantity" name="quantity" value="1" min="1">
+        <button type="submit" onclick="updateForm(event)">Beli</button>
+    </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
-    
     <footer>
       <div class="container">
         <div class="row">
