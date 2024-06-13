@@ -102,150 +102,125 @@ https://templatemo.com/tm-546-sixteen-clothing
             </div>
           </div>
           <div class="col-md-12">
-            <div class="filters-content">
-                <div class="row grid">
-                  <div class="col-lg-4 col-md-4 all des">
-                    <div class="product-item">
-                      <a href="product1.html"><img src="assets/images/product_01.jpg" alt=""></a>
-                      <div class="down-content">
+    <div class="filters-content">
+        <div class="row grid">
+            <div class="col-lg-4 col-md-4 all des">
+                <div class="product-item">
+                    <a href="product1.html"><img src="assets/images/product_01.jpg" alt=""></a>
+                    <div class="down-content">
                         <a href="product1.html"><h4>Srikayaroti</h4></a>
                         <h6>Rp.2000</h6>
                         <p>........</p>
                         <ul class="stars">
-                          <li><i class="fa fa-star"></i></li>
-                          <li><i class="fa fa-star"></i></li>
-                          <li><i class="fa fa-star"></i></li>
-                          <li><i class="fa fa-star"></i></li>
-                          <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <div class="cart-section">
-                          <a href="#" id="cart-icon"><i class="fa fa-shopping-cart"></i></a>
-                          <input type="number" class="product-quantity" id="product-quantity" value="1" min="1">
-                      </div>                                          
-                      </div>
-                    </div>
-                  </div>
-                  
-                    <div class="col-lg-4 col-md-4 all dev">
-                      <div class="product-item">
-                        <a href="product2.html"><img src="assets/images/product_02.jpeg" alt=""></a>
-                        <div class="down-content">
-                          <a href="product2.html"><h4>Salad Jelly</h4></a>
-                          <h6>Rp.10.000</h6>
-                          <p>............</p>
-                          <ul class="stars">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                          </ul>
-                          <div class="cart-section">
-                            <a href="keranjang"><i class="fa fa-shopping-cart"></i></a>
-                            <input type="number" class="product-quantity" value="1" min="1">
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 all gra">
-                      <div class="product-item">
-                        <a href="product3.html"><img src="assets/images/product_03.jpg" alt=""></a>
-                        <div class="down-content">
-                          <a href="product3.html"><h4>Nasi Ayam</h4></a>
-                          <h6>Rp.10.000</h6>
-                          <p>.............</p>
-                          <ul class="stars">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                          </ul>
-                          <div class="cart-section">
-                            <a href="keranjang"><i class="fa fa-shopping-cart"></i></a>
-                            <input type="number" class="product-quantity" value="1" min="1">
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 all gra">
-                      <div class="product-item">
-                        <a href="product4.html"><img src="assets/images/product_04.jpg" alt=""></a>
-                        <div class="down-content">
-                          <a href="product4.html"><h4>Nasi Tahu</h4></a>
-                          <h6>Rp.5000</h6>
-                          <p>.............</p>
-                          <ul class="stars">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                          </ul>
-                          <div class="cart-section">
-                            <a href="keranjang"><i class="fa fa-shopping-cart"></i></a>
-                            <input type="number" class="product-quantity" value="1" min="1">
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 all dev">
-                      <div class="product-item">
-                        <a href="product5.html"><img src="assets/images/product_05.jpg" alt=""></a>
-                        <div class="down-content">
-                          <a href="product5.html"><h4>Jus</h4></a>
-                          <h6>Rp.5000</h6>
-                          <p>.........</p>
-                          <ul class="stars">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                          </ul>
-                          <div class="cart-section">
-                            <a href="keranjang"><i class="fa fa-shopping-cart"></i></a>
-                            <input type="number" class="product-quantity" value="1" min="1">
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 all des">
-                      <div class="product-item">
-                        <a href="product6.html"><img src="assets/images/product_06.jpeg" alt=""></a>
-                        <div class="down-content">
-                          <a href="product6.html"><h4>Brownies</h4></a>
-                          <h6>Rp.2500</h6>
-                          <p>.......</p>
-                          <ul class="stars">
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                            <li><i class="fa fa-star"></i></li>
-                          </ul>
-                          <div class="cart-section">
-                            <a href="keranjang"><i class="fa fa-shopping-cart"></i></a>
-                            <input type="number" class="product-quantity" value="1" min="1">
-                        </div>
-                        </div>
-                      </div>
+                        <button class="buy-btn" onclick="buyProduct('Srikayaroti', 2000)">Buy</button>
                     </div>
                 </div>
             </div>
-          </div>
-          <!-- <div class="col-md-12">
-            <ul class="pages">
-              <li><a href="#">1</a></li>
-              <li class="active"><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
-            </ul>
-          </div> -->
+
+            <div class="col-lg-4 col-md-4 all dev">
+                <div class="product-item">
+                    <a href="product2.html"><img src="assets/images/product_02.jpeg" alt=""></a>
+                    <div class="down-content">
+                        <a href="product2.html"><h4>Salad Jelly</h4></a>
+                        <h6>Rp.10.000</h6>
+                        <p>............</p>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <button class="buy-btn" onclick="buyProduct('Salad Jelly', 10000)">Buy</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 all gra">
+                <div class="product-item">
+                    <a href="product3.html"><img src="assets/images/product_03.jpg" alt=""></a>
+                    <div class="down-content">
+                        <a href="product3.html"><h4>Nasi Ayam</h4></a>
+                        <h6>Rp.10.000</h6>
+                        <p>.............</p>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <button class="buy-btn" onclick="buyProduct('Nasi Ayam', 10000)">Buy</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 all gra">
+                <div class="product-item">
+                    <a href="product4.html"><img src="assets/images/product_04.jpg" alt=""></a>
+                    <div class="down-content">
+                        <a href="product4.html"><h4>Nasi Tahu</h4></a>
+                        <h6>Rp.5000</h6>
+                        <p>.............</p>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <button class="buy-btn" onclick="buyProduct('Nasi Tahu', 5000)">Buy</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 all dev">
+                <div class="product-item">
+                    <a href="product5.html"><img src="assets/images/product_05.jpg" alt=""></a>
+                    <div class="down-content">
+                        <a href="product5.html"><h4>Jus</h4></a>
+                        <h6>Rp.5000</h6>
+                        <p>.........</p>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <button class="buy-btn" onclick="buyProduct('Jus', 5000)">Buy</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 all des">
+                <div class="product-item">
+                    <a href="product6.html"><img src="assets/images/product_06.jpeg" alt=""></a>
+                    <div class="down-content">
+                        <a href="product6.html"><h4>Brownies</h4></a>
+                        <h6>Rp.2500</h6>
+                        <p>.......</p>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <button class="buy-btn" onclick="buyProduct('Brownies', 2500)">Buy</button>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
+</div>
+
 
     
     <footer>
@@ -274,14 +249,9 @@ https://templatemo.com/tm-546-sixteen-clothing
     <script src="assets/js/accordions.js"></script>
 
 
-    <script language = "text/Javascript"> 
-      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
-      function clearField(t){                   //declaring the array outside of the
-      if(! cleared[t.id]){                      // function makes it static and global
-          cleared[t.id] = 1;  // you could use true and false, but that's more typing
-          t.value='';         // with more chance of typos
-          t.style.color='#fff';
-          }
+    <script> 
+      function buyProduct(productName, productPrice) {
+        alert(`Kamu telah membeli ${productName} harga Rp.${productPrice}`);
       }
     </script>
 

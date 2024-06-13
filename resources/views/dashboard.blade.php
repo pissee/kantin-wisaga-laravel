@@ -50,18 +50,21 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="home">Beranda
+                <a class="nav-link" href="dashboard">Beranda
                   <span class="sr-only">(current)</span>
                 </a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link" href="products.html">Produk</a>
+                <a class="nav-link" href="products">Produk</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.html">Tentang</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="home">Pemberitahuan</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="keranjang">Keranjang</a>
               </li>
             </ul>
           </div>
@@ -101,7 +104,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Tentang Kantin</h2>
-              <a href="products.html">Menu Makanan <i class="fa fa-angle-right"></i></a>
+              <a href="products">Menu Makanan <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
          <div class="col-md-6">

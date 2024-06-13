@@ -8,7 +8,7 @@
                 <div class="card-header">{{ __('Login') }}</div>
 
                 <div class="card-body">
-                    <form method="POST" action="{{ route('login') }}">
+                    <form method="POST" action="{{ route('loginadmin') }}">
                         @csrf
 
                         <div class="row mb-3">
@@ -36,14 +36,6 @@
                                         <strong>{{ $message }}</strong>
                                     </span>
                                 @enderror
-                                
-                                <div class="row mb-3">
-                                    <label for="role" class="col-md-4 col-form-label text-md-end">{{ __('Role') }}</label>
-                                    <div class="col-md-6">
-                                        <select id="role" class="form-control @error('role') is-invalid @enderror" name="role" required>
-                                            <option value="user" {{ old('role') == 'user' ? 'selected' : '' }}>User</option>
-                                             <option value="admin" {{ old('role') == 'admin' ? 'selected' : '' }}>Admin</option>
-                                             </select>
                             </div>
                         </div>
 

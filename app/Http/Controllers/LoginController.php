@@ -52,9 +52,10 @@ class LoginController extends Controller
         $this->validate($request, [
             'email' => 'required|email',
             'password' => 'required',
+            'role' => 'required',
         ]);
      
-        if(auth()->attempt(array('email' => $input['email'], 'password' => $input['password'])))
+        if(auth()->attempt(array('email' => $input['email'], 'password' => $input['password'], 'role' => $input['role'])))
         {
             if (auth()->user()->type == 'admin') {
                 return redirect()->route('admin.home');
